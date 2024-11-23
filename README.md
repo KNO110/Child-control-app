@@ -1,5 +1,8 @@
 # Child-control-app
 
+![image](https://github.com/user-attachments/assets/69eb36a1-3330-4efc-8cd2-d9be6ffd37f0)
+
+
 This system comprises two components: a **server application** (administrator) and a **client application** (child device). Together, they form a robust **Process Management System** for monitoring, managing, and controlling running processes on remote machines. The server acts as a control center, while the client reports its activity and executes commands from the server.
 
 ---
